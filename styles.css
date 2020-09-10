@@ -1,0 +1,11 @@
+.dropdown-content {
+    display: none;
+}
+
+.show {
+display:block;
+}
+
+ul{
+    list-style-type: none;
+}
