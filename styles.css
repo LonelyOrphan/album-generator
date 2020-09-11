@@ -3,9 +3,13 @@
 }
 
 .show {
-display:block;
+    display:block;
 }
 
-ul{
+ul {
     list-style-type: none;
+}
+
+.header {
+    font-family: "Lucida Console", Courier, monospace;
 }
